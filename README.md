@@ -1,8 +1,8 @@
 # The SALN Digital Filing System
 
-<img width="1917" height="971" alt="image" src="https://github.com/user-attachments/assets/519236c8-89d4-4e57-927a-d7d8115b87b4" />
-
 We developed a comprehensive, full-stack web application designed to digitize the Philippine Statement of Assets, Liabilities, and Net Worth (SALN) form. Developed as a school project, the application is built for offline use and is hosted strictly in a local environment.
+
+<img width="1917" height="971" alt="image" src="https://github.com/user-attachments/assets/519236c8-89d4-4e57-927a-d7d8115b87b4" />
 
 ## Core Architecture
 
